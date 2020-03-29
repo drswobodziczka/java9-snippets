@@ -67,3 +67,8 @@ ls
 /save -history 'C:\Users\ext-wawrra\__workshop\BLS\deep-dive-int-java-sessions\java9-REPL\jshell_session1.java'
 /save -history 'C:\\Users\ext-wawrra\__workshop\BLS\deep-dive-int-java-sessions\java9-REPL\jshell_session1.java'
 /save -history 'C:\\Users\\ext-wawrra\\__workshop\\BLS\\deep-dive-int-java-sessions\\java9-REPL\\jshell_session1.java'
+/save -history 'C:\\Users\\ext-wawrra\\__workshop\\BLS\\deep-dive-int-java-sessions\\java9-REPL\\jshell_session-history.java'
+/save -history 'C:\\Users\\ext-wawrra\\__workshop\\BLS\\deep-dive-int-java-sessions\java9-snippets\\com\\rwaw\\repl\\jshell_session-history.java'
+/save -history 'C:\\Users\\ext-wawrra\\__workshop\\BLS\\deep-dive-int-java-sessions\\java9-snippets\\com\\rwaw\\repl\\jshell_session-history.java'
+/save -history 'C:\Users\ext-wawrra\__workshop\BLS\deep-dive-int-java-sessions\java9-snippets\com\rwaw\java9\repl\jshell_session-history.java'
+/save -history 'C:\\Users\\ext-wawrra\\__workshop\\BLS\\deep-dive-int-java-sessions\\java9-snippets\\com\\rwaw\\java9\\repl\\jshell_session-history.java'
